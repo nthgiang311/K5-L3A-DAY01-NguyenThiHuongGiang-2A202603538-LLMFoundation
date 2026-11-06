@@ -37,3 +37,9 @@
 ## 7. AI log và điều đã học
 
 *Mỗi lần dùng AI: hỏi gì, nhận gì, bạn sửa gì. Sau đó 2–3 câu: điều bạn hiểu ra hôm nay mà trước đó chưa hiểu.*
+ML: Giải thích Logistic Regression, Sigmoid và Metrics. Giải thích công thức và cơ chế học
+DL: Giải thích MLP, ReLU và Overfitting. Phân tích cấu trúc mạng và quá trình học. Kiểm tra số tham số và loss thực nghiệm
+Embedding: Giải thích Cosine Similarity và kNN. Giải thích cách biểu diễn ngữ nghĩa và tìm hàng xóm
+LLM: Kiểm tra prompt, API và hàm parse label. Rà soát code, chưa xác nhận kết quả API nếu chưa chạy
+Phân tích: Kiểm tra lỗi phương pháp và cách diễn giải kết quả. Chỉ ra các điểm cần chú ý trong đánh giá
+
